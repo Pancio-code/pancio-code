@@ -10,9 +10,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=pancio-code&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
 
-### :woman_technologist: About Me :
+### 👨‍💻 About Me :
 
 I am a master's student in Computer Engineering at Sapienza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -26,7 +27,7 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -47,7 +48,21 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 
 ---
 
-### :fire: My Stats :
+### 🔥 Streak stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pancio-code&theme=highcontrast&border_radius=6.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pancio-code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🖥️ GitHub Profile Stats:
+
+---
+
+### 🙋‍♂️Support:
+
+💜 If you like my projects, give it a 🌟 and share it with your friends!
+
+☕ <a href="https://paypal.me/andreapanceri?country.x=IT&locale.x=it_IT">Buy me a coffee</a>
+
+
