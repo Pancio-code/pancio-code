@@ -9,7 +9,7 @@ Heyyyy this is my GitHub page 👋
 <a href="https://twitter.com/Pancio__o">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.instagram.com/panceri_andrea/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
  <a href="https://linktr.ee/Pancio">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
-<img src="https://komarev.com/ghpvc/?username=pancio-code&style=flat-square&color=blue" alt=""/>
+ 
 ---
 
 ### 📑 Some of my projects:
@@ -72,6 +72,8 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 ---
 
 ### 🙋‍♂️Support:
+
+<img src="https://komarev.com/ghpvc/?username=pancio-code&style=flat-square&color=blue" alt=""/>
 
 💜 If you like my projects, give it a 🌟 and share it with your friends!
 
