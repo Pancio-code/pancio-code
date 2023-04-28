@@ -2,10 +2,19 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
+  <a href="[https://www.linkedin.com/in/andrea-panceri-0439b222a](https://www.pinterest.it/Pancio__o/)">
+    ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
   </a>
   <a href="https://twitter.com/Pancio__o">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+  </a>
+      <a href="https://www.instagram.com/panceri_andrea/">
+    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  </a>
+    <a href="https://linktr.ee/Pancio">
+    ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=pancio-code&style=flat-square&color=blue" alt=""/>
@@ -17,11 +26,9 @@
 
 I am a master's student in Computer Engineering at Sapienza <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Working on different projects with different technologies.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I code.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-panceri-0439b222a)
 
