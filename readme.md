@@ -50,13 +50,14 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 
 ### 🔥 Streak stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pancio-code&theme=highcontrast&border_radius=6.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pancio-code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🖥️ GitHub Profile Stats:
 
+![Pancio-code GitHub stats](https://github-readme-stats.vercel.app/api?username=ancio-code&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pancio-code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### 🙋‍♂️Support:
