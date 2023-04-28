@@ -1,11 +1,11 @@
+
+### 🥇Pancio-code:
+
 <div id="header" align="center">
 <div id="badges">
-  
-### 🥇Pancio-code:
-  
-  <a href="https://github.com/Pancio-code">![Pancio-code](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)</a>
+   <a href="mailto:andrea.pancio00gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="[https://www.linkedin.com/in/andrea-panceri-0439b222a](https://www.pinterest.it/Pancio__o/)">
+  <a href="https://www.pinterest.it/Pancio__o/">
     ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
   </a>
   <a href="https://twitter.com/Pancio__o">
@@ -18,7 +18,6 @@
     ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=pancio-code&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
