@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/PgKc6XWRjJ4GgkAevA/giphy.gif" width="150" height="150" />
 <div id="badges">
+  
+### 🥇Pancio-code:
+  
   <a href="https://github.com/Pancio-code">![Pancio-code](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="[https://www.linkedin.com/in/andrea-panceri-0439b222a](https://www.pinterest.it/Pancio__o/)">
