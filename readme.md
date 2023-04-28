@@ -1,9 +1,9 @@
 
 ### 🥇Pancio-code:
 
-<br>
 Heyyyy this is my GitHub page 👋
-<br>
+
+
 <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:andrea.pancio00gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.pinterest.it/Pancio__o/">![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)</a>
@@ -22,7 +22,7 @@ Heyyyy this is my GitHub page 👋
 
 ### 🫂 Contributed to:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-cod&repo=CondominioOrganizer)](https://github.com/Pancio-code/CondominioOrganizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=CondominioOrganizer)](https://github.com/Pancio-code/CondominioOrganizer)
 
 ---
 
