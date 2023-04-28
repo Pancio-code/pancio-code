@@ -1,9 +1,7 @@
 
 ### 🥇Pancio-code:
 
-<div id="header" align="center">
-<div id="badges">
-   ###
+
    <a href="mailto:andrea.pancio00gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.pinterest.it/Pancio__o/">
@@ -18,8 +16,6 @@
     <a href="https://linktr.ee/Pancio">
     ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
   </a>
-</div>
-</div>
 
 ---
 
