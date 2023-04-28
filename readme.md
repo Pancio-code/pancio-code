@@ -3,7 +3,6 @@
 
 
    <a href="mailto:andrea.pancio00gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.pinterest.it/Pancio__o/">
     ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
   </a>
@@ -27,7 +26,7 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 
 - :zap: In my free time, I code.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-panceri-0439b222a)
+- :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
