@@ -1,20 +1,21 @@
 
 ### 🥇Pancio-code:
 
+<a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:andrea.pancio00gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.pinterest.it/Pancio__o/">![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)</a>
+<a href="https://twitter.com/Pancio__o">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.instagram.com/panceri_andrea/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+ <a href="https://linktr.ee/Pancio">![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)</a>
 
-   <a href="mailto:andrea.pancio00gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.pinterest.it/Pancio__o/">
-    ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-  </a>
-  <a href="https://twitter.com/Pancio__o">
-    ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-  </a>
-      <a href="https://www.instagram.com/panceri_andrea/">
-    ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-  </a>
-    <a href="https://linktr.ee/Pancio">
-    ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
-  </a>
+---
+
+### 📑 Some of my projects:
+
+---
+
+### 🫂 Contributed to:
 
 ---
 
@@ -25,8 +26,6 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 - :seedling: Working on different projects with different technologies.
 
 - :zap: In my free time, I code.
-
-- :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
