@@ -2,6 +2,7 @@
 ### 🥇Pancio-code:
 
 Heyyyy this is my GitHub page 👋
+<img src="https://komarev.com/ghpvc/?username=pancio-code&style=flat-square&color=blue" alt=""/>
 
 
 <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
