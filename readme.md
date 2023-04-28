@@ -1,9 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/PgKc6XWRjJ4GgkAevA" width="480" height="262" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-PgKc6XWRjJ4GgkAevA">via GIPHY</a></p>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andrea-panceri-0439b222a">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
+
   <a href="[https://www.linkedin.com/in/andrea-panceri-0439b222a](https://www.pinterest.it/Pancio__o/)">
     ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
   </a>
