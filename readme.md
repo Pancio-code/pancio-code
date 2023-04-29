@@ -16,7 +16,7 @@ Heyyyy this is my GitHub page 👋🔥
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=EasyCondo)](https://github.com/Pancio-code/EasyCondo)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=Homework-I-Interactive-Graphics)](https://github.com/Pancio-code/EasyCondo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pancio-code&repo=Homework-I-Interactive-Graphics)](https://github.com/Pancio-code/Homework-I-Interactive-Graphics)
 <br>
 <a href="https://github.com/Pancio-code?tab=repositories">![](https://camo.githubusercontent.com/c78e6c0f9472ece503c12ff12132777835355333828407593602fe66c6125827/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f72652532305265706f732d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f64696e67266c6f676f436f6c6f723d7768697465)</a>
 
