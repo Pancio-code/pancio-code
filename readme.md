@@ -68,18 +68,10 @@ I am a master's student in Computer Engineering at Sapienza <img src="https://me
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
----
-
-### 🔥 Streak stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pancio-code&theme=highcontrast&border_radius=6.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
 
 ### 🖥️ GitHub Profile Stats:
 
 ![Pancio-code GitHub stats](https://github-readme-stats.vercel.app/api?username=pancio-code&show_icons=true&theme=dark)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pancio-code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
